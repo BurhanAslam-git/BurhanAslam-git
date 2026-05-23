@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Burhan Aslam 👋
 
-<!--
-**BurhanAslam-git/BurhanAslam-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Engineer based in Islamabad, Pakistan.
+I build systems that eliminate manual work for businesses.
 
-Here are some ideas to get you started:
+## 🔧 What I Build
+- Lead capture & CRM automation pipelines
+- AI-powered workflow systems (Make.com · n8n)
+- LLM integrations using OpenAI & Claude API
+- Multi-step automations with error handling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### LeadSync AI
+Automated lead pipeline — form submission to Slack 
+alert in under 10 seconds. GPT-4o scoring, 
+personalised emails, full error handling.
+→ [View Repository](https://github.com/BurhanAslam-git/LeadSync-AI-)
+
+### FinoraAI
+AI-powered CFO Assistant built at hackathon with 
+a team of 5. Agentic financial intelligence platform 
+using LLMs, Kotlin, and Python.
+→ [View Repository](https://github.com/BurhanAslam-git/FinoraAI)
+
+## 🛠️ Tech Stack
+Make.com · n8n · OpenAI API · Claude API · 
+Airtable · HubSpot · Slack · Docker · LangChain · 
+Webhooks · Python · Kotlin
+
+## 📫 Let's Connect
+- LinkedIn: [Burhan Aslam](https://linkedin.com/in/burhan-aslam)
+- Email: burhanaslam944@gmail.com
+- Open to: Freelance automation projects
