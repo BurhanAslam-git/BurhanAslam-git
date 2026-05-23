@@ -47,11 +47,6 @@ support, and financial operations using LLMs.
 **DevOps:** Docker · Railway · Vercel  
 **Languages:** Python · Kotlin · JavaScript  
 
----
-
-## 📊 GitHub Stats
-
-![Burhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurhanAslam-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
